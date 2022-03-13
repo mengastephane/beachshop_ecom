@@ -1,0 +1,26 @@
+{
+  "title": "Beachshop | Vente de maillots de bains",
+  "titleTemplate": "%s - Beachshop",
+  "description": "Vente de maillots de bains",
+  "openGraph": {
+    "title": "Beachshop",
+    "description": "Beachshop - Vente de maillots de bains",
+    "type": "website",
+    "locale": "fr_FR",
+    "url": "https://beachshop.vercel.app/",
+    "site_name": "Beachshop",
+    "images": [
+      {
+        "url": "/card.png",
+        "width": 800,
+        "height": 600,
+        "alt": "Beachshop"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@nextjs",
+    "site": "@nextjs",
+    "cardType": "summary_large_image"
+  }
+}
