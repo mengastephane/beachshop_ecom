@@ -6,7 +6,7 @@
   --selection: var(--cyan);
 
   --text-base: #000000;
-  --text-primary: #000000;
+  --text-primary: #333;
   --text-secondary: white;
 
   --hover: rgba(0, 0, 0, 0.075);
@@ -18,13 +18,13 @@
   --purple: #f81ce5;
   --blue: #0070f3;
 
-  --pink: #ff0080;
+  --pink: #1dd1a1;
   --pink-light: #ff379c;
 
   --magenta: #eb367f;
 
-  --violet: #7928ca;
-  --violet-dark: #4c2889;
+  --violet: #ff7f50;
+  --violet-dark: #10ac84;
 
   --accent-0: #fff;
   --accent-1: #fafafa;
@@ -34,7 +34,7 @@
   --accent-5: #666666;
   --accent-6: #444444;
   --accent-7: #333333;
-  --accent-8: #111111;
+  --accent-8: #1e90ff;
   --accent-9: #000;
 
   --font-sans: -apple-system, system-ui, BlinkMacSystemFont, 'Helvetica Neue',
